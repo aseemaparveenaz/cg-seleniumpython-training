@@ -1,0 +1,15 @@
+import xlrd
+import xlwt as xlwt
+loc=(r"C:\Users\ASEEAZ\Desktop\selenuim-python\testsheet1.xls")
+loc1=(r"C:\Users\ASEEAZ\Desktop\selenuim-python\createsheet1.xls")
+wb=xlrd.open_workbook(loc)
+sheet=wb.sheet_by_index(0)
+user=sheet.cell_value(1,0)
+pwd=sheet.cell_value(1,1)
+print(user)
+print(pwd)
+wb1=xlwt.Workbook()
+sheet2=wb1.add_sheet('sheetnew1')
+sheet2.write(1,0,user)
+sheet2.write(3,0,pwd)
+wb1.save(loc1)

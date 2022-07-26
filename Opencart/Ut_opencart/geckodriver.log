@@ -1,0 +1,35 @@
+1640581321851	geckodriver	INFO	Listening on 127.0.0.1:60884
+1640581322367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileMj6e77"
+1640581323480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileMj6e77\\search.json.mozlz4", (void 0)))
+1640581326137	Marionette	INFO	Listening on port 60889
+1640581326401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640581374103	Marionette	INFO	Stopped listening on port 60889
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640592449800	geckodriver	INFO	Listening on 127.0.0.1:62919
+1640592450332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofile9pgAz7"
+1640592451622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofile9pgAz7\\search.json.mozlz4", (void 0)))
+1640592454459	Marionette	INFO	Listening on port 62924
+1640592454945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640592456981	Marionette	INFO	Stopped listening on port 62924
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640683263971	geckodriver	INFO	Listening on 127.0.0.1:54672
+1640683264509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileLV2WUw"
+1640683265784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileLV2WUw\\search.json.mozlz4", (void 0)))
+1640683268753	Marionette	INFO	Listening on port 54677
+1640683269189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 6920 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640683281456	Marionette	INFO	Stopped listening on port 54677
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

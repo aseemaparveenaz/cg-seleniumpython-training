@@ -1,0 +1,45 @@
+1632475887233	geckodriver	INFO	Listening on 127.0.0.1:64671
+1632476017018	geckodriver	INFO	Listening on 127.0.0.1:52255
+1632476017599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofilee1CXdJ"
+1632476145966	geckodriver	INFO	Listening on 127.0.0.1:52337
+1632476146497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileRku2Q4"
+1632476147905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofileRku2Q4\\search.json.mozlz4", (void 0)))
+1632476152691	Marionette	INFO	Listening on port 52342
+1632476152928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632476157049	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1921 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632477621495	Marionette	INFO	Stopped listening on port 52342
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofilegSMS1n\\search.json.mozlz4", (void 0)))
+1632477610219	Marionette	INFO	Listening on port 51063
+1632477610645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632478411270	Marionette	INFO	Stopped listening on port 51063
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+sts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASEEAZ\\AppData\\Local\\Temp\\rust_mozprofilefuD8wY\\search.json.mozlz4", (void 0)))
+1632478276801	Marionette	INFO	Listening on port 49179
+1632478277303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632478284491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1632478319739	Marionette	INFO	Stopped listening on port 49179
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
